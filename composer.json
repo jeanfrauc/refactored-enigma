@@ -1,0 +1,7 @@
+{
+  "name": "jeanfrauc/refactored-enigma",
+  "description": "Refactored Enigma Sample project",
+  "require": {
+    "php": ">=7.4.5"
+  }
+}
